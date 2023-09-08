@@ -45,7 +45,6 @@ header {
 	height: 170px;
    background-color: white;
     color: black;
-    background-image: url('your-background-image.jpg');
 }
 header h1 {
     font-size: 30px;
@@ -86,7 +85,7 @@ div a {
     padding: 100px 0;
     background-color: rgba(0, 0, 0, 0.5);
     
-    background-image: url("backgroundimageoctanet3.jpg");
+    background-image: url("asset/backgroundimageoctanet3.jpg");
 	height: 800px;
 	width:100% ;
 }
